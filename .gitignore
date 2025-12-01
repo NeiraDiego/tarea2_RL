@@ -5,6 +5,9 @@ __pycache__/
 
 # propios del proyecto:
 *0.pt
+video/
+videos_evaluacion/
+*.png
 
 # C extensions
 *.so

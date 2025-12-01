@@ -32,13 +32,17 @@ def get_device(device_arg):
 
 def train_dqn(
     dispositivo,
-    num_episodios: int = 1000,
+    num_episodios: int = 1500,
     max_pasos_por_episodio: int = 10000,
     pasos_exploracion_inicial: int = 10000,
     intervalo_registro: int = 10,
     intervalo_checkpoint: int = 100,
     directorio_checkpoints: str = 'checkpoints',
-    semilla: int = 42
+    semilla: int = 42,
+    tasa_aprendizaje: float = 5e-5,
+    epsilon_inicio: float = 1.0,
+    epsilon_fin: float = 0.1,
+    decaimiento_epsilon: float = 0.998
 ):
     random.seed(semilla)
     np.random.seed(semilla)
@@ -54,7 +58,11 @@ def train_dqn(
 
     agente = DQNAgent(
         num_acciones=env.action_space.n,
-        dispositivo=dispositivo
+        dispositivo=dispositivo,
+        tasa_aprendizaje=tasa_aprendizaje,
+        epsilon_inicio = epsilon_inicio,
+        epsilon_fin = epsilon_fin,
+        decaimiento_epsilon =decaimiento_epsilon 
     )
 
     recompensas_episodio = []

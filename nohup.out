@@ -1,0 +1,223 @@
+A.L.E: Arcade Learning Environment (version 0.11.2+ecc1138)
+[Powered by Stella]
+Iniciando Entrenamiento PPO en Frogger
+Dispositivo: cuda:0
+Número de episodios: 1500
+Episodio 10/1500 | Recompensa Promedio: 11.60
+Episodio 20/1500 | Recompensa Promedio: 11.60
+Episodio 30/1500 | Recompensa Promedio: 10.60
+Episodio 40/1500 | Recompensa Promedio: 10.00
+Episodio 50/1500 | Recompensa Promedio: 12.40
+Episodio 60/1500 | Recompensa Promedio: 11.30
+Episodio 70/1500 | Recompensa Promedio: 12.60
+Episodio 80/1500 | Recompensa Promedio: 14.20
+Episodio 90/1500 | Recompensa Promedio: 13.70
+Episodio 100/1500 | Recompensa Promedio: 14.30
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_100.pt
+Episodio 110/1500 | Recompensa Promedio: 14.10
+Episodio 120/1500 | Recompensa Promedio: 17.00
+Episodio 130/1500 | Recompensa Promedio: 12.20
+Episodio 140/1500 | Recompensa Promedio: 14.20
+Episodio 150/1500 | Recompensa Promedio: 13.70
+Episodio 160/1500 | Recompensa Promedio: 13.30
+Episodio 170/1500 | Recompensa Promedio: 16.20
+Episodio 180/1500 | Recompensa Promedio: 17.90
+Episodio 190/1500 | Recompensa Promedio: 15.80
+Episodio 200/1500 | Recompensa Promedio: 17.50
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_200.pt
+Episodio 210/1500 | Recompensa Promedio: 13.80
+Episodio 220/1500 | Recompensa Promedio: 16.90
+Episodio 230/1500 | Recompensa Promedio: 16.30
+Episodio 240/1500 | Recompensa Promedio: 18.20
+Episodio 250/1500 | Recompensa Promedio: 17.50
+Episodio 260/1500 | Recompensa Promedio: 19.90
+Episodio 270/1500 | Recompensa Promedio: 17.70
+Episodio 280/1500 | Recompensa Promedio: 14.80
+Episodio 290/1500 | Recompensa Promedio: 17.60
+Episodio 300/1500 | Recompensa Promedio: 17.50
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_300.pt
+Episodio 310/1500 | Recompensa Promedio: 19.40
+Episodio 320/1500 | Recompensa Promedio: 19.10
+Episodio 330/1500 | Recompensa Promedio: 19.00
+Episodio 340/1500 | Recompensa Promedio: 17.90
+Episodio 350/1500 | Recompensa Promedio: 17.10
+Episodio 360/1500 | Recompensa Promedio: 17.80
+Episodio 370/1500 | Recompensa Promedio: 17.40
+Episodio 380/1500 | Recompensa Promedio: 17.30
+Episodio 390/1500 | Recompensa Promedio: 20.50
+Episodio 400/1500 | Recompensa Promedio: 18.60
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_400.pt
+Episodio 410/1500 | Recompensa Promedio: 22.10
+Episodio 420/1500 | Recompensa Promedio: 18.90
+Episodio 430/1500 | Recompensa Promedio: 21.40
+Episodio 440/1500 | Recompensa Promedio: 19.80
+Episodio 450/1500 | Recompensa Promedio: 20.10
+Episodio 460/1500 | Recompensa Promedio: 19.80
+Episodio 470/1500 | Recompensa Promedio: 15.50
+Episodio 480/1500 | Recompensa Promedio: 19.30
+Episodio 490/1500 | Recompensa Promedio: 17.30
+Episodio 500/1500 | Recompensa Promedio: 21.00
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_500.pt
+Episodio 510/1500 | Recompensa Promedio: 20.70
+Episodio 520/1500 | Recompensa Promedio: 21.10
+Episodio 530/1500 | Recompensa Promedio: 19.10
+Episodio 540/1500 | Recompensa Promedio: 18.90
+Episodio 550/1500 | Recompensa Promedio: 19.60
+Episodio 560/1500 | Recompensa Promedio: 22.70
+Episodio 570/1500 | Recompensa Promedio: 18.30
+Episodio 580/1500 | Recompensa Promedio: 17.70
+Episodio 590/1500 | Recompensa Promedio: 18.70
+Episodio 600/1500 | Recompensa Promedio: 23.40
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_600.pt
+Episodio 610/1500 | Recompensa Promedio: 19.20
+Episodio 620/1500 | Recompensa Promedio: 20.40
+Episodio 630/1500 | Recompensa Promedio: 23.00
+Episodio 640/1500 | Recompensa Promedio: 20.90
+Episodio 650/1500 | Recompensa Promedio: 18.00
+Episodio 660/1500 | Recompensa Promedio: 21.20
+Episodio 670/1500 | Recompensa Promedio: 20.60
+Episodio 680/1500 | Recompensa Promedio: 21.80
+Episodio 690/1500 | Recompensa Promedio: 20.50
+Episodio 700/1500 | Recompensa Promedio: 20.30
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_700.pt
+Episodio 710/1500 | Recompensa Promedio: 19.50
+Episodio 720/1500 | Recompensa Promedio: 21.30
+Episodio 730/1500 | Recompensa Promedio: 21.30
+Episodio 740/1500 | Recompensa Promedio: 22.20
+Episodio 750/1500 | Recompensa Promedio: 18.40
+Episodio 760/1500 | Recompensa Promedio: 22.00
+Episodio 770/1500 | Recompensa Promedio: 19.40
+Episodio 780/1500 | Recompensa Promedio: 19.70
+Episodio 790/1500 | Recompensa Promedio: 21.70
+Episodio 800/1500 | Recompensa Promedio: 27.90
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_800.pt
+Episodio 810/1500 | Recompensa Promedio: 22.60
+Episodio 820/1500 | Recompensa Promedio: 20.10
+Episodio 830/1500 | Recompensa Promedio: 19.80
+Episodio 840/1500 | Recompensa Promedio: 23.20
+Episodio 850/1500 | Recompensa Promedio: 21.90
+Episodio 860/1500 | Recompensa Promedio: 21.90
+Episodio 870/1500 | Recompensa Promedio: 21.10
+Episodio 880/1500 | Recompensa Promedio: 18.60
+Episodio 890/1500 | Recompensa Promedio: 20.90
+Episodio 900/1500 | Recompensa Promedio: 21.80
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_900.pt
+Episodio 910/1500 | Recompensa Promedio: 19.50
+Episodio 920/1500 | Recompensa Promedio: 22.50
+Episodio 930/1500 | Recompensa Promedio: 22.10
+Episodio 940/1500 | Recompensa Promedio: 19.10
+Episodio 950/1500 | Recompensa Promedio: 20.60
+Episodio 960/1500 | Recompensa Promedio: 23.50
+Episodio 970/1500 | Recompensa Promedio: 22.50
+Episodio 980/1500 | Recompensa Promedio: 23.00
+Episodio 990/1500 | Recompensa Promedio: 24.00
+Episodio 1000/1500 | Recompensa Promedio: 24.40
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_1000.pt
+Episodio 1010/1500 | Recompensa Promedio: 24.70
+Episodio 1020/1500 | Recompensa Promedio: 20.60
+Episodio 1030/1500 | Recompensa Promedio: 22.60
+Episodio 1040/1500 | Recompensa Promedio: 22.50
+Episodio 1050/1500 | Recompensa Promedio: 20.60
+Episodio 1060/1500 | Recompensa Promedio: 20.30
+Episodio 1070/1500 | Recompensa Promedio: 23.60
+Episodio 1080/1500 | Recompensa Promedio: 22.10
+Episodio 1090/1500 | Recompensa Promedio: 23.80
+Episodio 1100/1500 | Recompensa Promedio: 22.20
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_1100.pt
+Episodio 1110/1500 | Recompensa Promedio: 23.80
+Episodio 1120/1500 | Recompensa Promedio: 25.70
+Episodio 1130/1500 | Recompensa Promedio: 21.80
+Episodio 1140/1500 | Recompensa Promedio: 22.00
+Episodio 1150/1500 | Recompensa Promedio: 24.10
+Episodio 1160/1500 | Recompensa Promedio: 22.60
+Episodio 1170/1500 | Recompensa Promedio: 26.20
+Episodio 1180/1500 | Recompensa Promedio: 25.50
+Episodio 1190/1500 | Recompensa Promedio: 23.90
+Episodio 1200/1500 | Recompensa Promedio: 25.10
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_1200.pt
+Episodio 1210/1500 | Recompensa Promedio: 23.60
+Episodio 1220/1500 | Recompensa Promedio: 22.20
+Episodio 1230/1500 | Recompensa Promedio: 23.10
+Episodio 1240/1500 | Recompensa Promedio: 23.30
+Episodio 1250/1500 | Recompensa Promedio: 25.20
+Episodio 1260/1500 | Recompensa Promedio: 21.40
+Episodio 1270/1500 | Recompensa Promedio: 26.40
+Episodio 1280/1500 | Recompensa Promedio: 22.10
+Episodio 1290/1500 | Recompensa Promedio: 24.10
+Episodio 1300/1500 | Recompensa Promedio: 24.20
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_1300.pt
+Episodio 1310/1500 | Recompensa Promedio: 22.90
+Episodio 1320/1500 | Recompensa Promedio: 24.10
+Episodio 1330/1500 | Recompensa Promedio: 28.40
+Episodio 1340/1500 | Recompensa Promedio: 23.50
+Episodio 1350/1500 | Recompensa Promedio: 23.90
+Episodio 1360/1500 | Recompensa Promedio: 26.80
+Episodio 1370/1500 | Recompensa Promedio: 27.10
+Episodio 1380/1500 | Recompensa Promedio: 28.40
+Episodio 1390/1500 | Recompensa Promedio: 22.10
+Episodio 1400/1500 | Recompensa Promedio: 22.50
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_1400.pt
+Episodio 1410/1500 | Recompensa Promedio: 29.80
+Episodio 1420/1500 | Recompensa Promedio: 25.50
+Episodio 1430/1500 | Recompensa Promedio: 24.50
+Episodio 1440/1500 | Recompensa Promedio: 25.20
+Episodio 1450/1500 | Recompensa Promedio: 25.70
+Episodio 1460/1500 | Recompensa Promedio: 26.30
+Episodio 1470/1500 | Recompensa Promedio: 25.40
+Episodio 1480/1500 | Recompensa Promedio: 22.10
+Episodio 1490/1500 | Recompensa Promedio: 32.30
+Episodio 1500/1500 | Recompensa Promedio: 24.10
+Checkpoint guardado en checkpoints/ppo_frogger_episodio_1500.pt
+
+Entrenamiento Completo!
+Checkpoint guardado en checkpoints/ppo_frogger_final.pt/home/diego/workspace/tarea2_RL/utils.py:73: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+
+Curvas de entrenamiento guardadas en curvas_entrenamiento.png
+A.L.E: Arcade Learning Environment (version 0.11.2+ecc1138)
+[Powered by Stella]
+/home/diego/anaconda3/lib/python3.13/site-packages/gymnasium/wrappers/rendering.py:293: UserWarning: [33mWARN: Overwriting existing videos at /home/diego/workspace/tarea2_RL/videos_evaluacion folder (try specifying a different `video_folder` for the `RecordVideo` wrapper if this is not desired)[0m
+  logger.warn(
+State dict de red PPO cargado desde checkpoints/ppo_frogger_final.pt
+
+Evaluando agente por 30 episodios...
+Episodio 1: Recompensa = 26.0, Longitud = 289
+Episodio 2: Recompensa = 36.0, Longitud = 347
+Episodio 3: Recompensa = 22.0, Longitud = 272
+Episodio 4: Recompensa = 18.0, Longitud = 303
+Episodio 5: Recompensa = 29.0, Longitud = 303
+Episodio 6: Recompensa = 33.0, Longitud = 360
+Episodio 7: Recompensa = 21.0, Longitud = 274
+Episodio 8: Recompensa = 17.0, Longitud = 263
+Episodio 9: Recompensa = 25.0, Longitud = 270
+Episodio 10: Recompensa = 32.0, Longitud = 351
+Episodio 11: Recompensa = 26.0, Longitud = 370
+Episodio 12: Recompensa = 21.0, Longitud = 258
+Episodio 13: Recompensa = 28.0, Longitud = 291
+Episodio 14: Recompensa = 27.0, Longitud = 266
+Episodio 15: Recompensa = 22.0, Longitud = 297
+Episodio 16: Recompensa = 24.0, Longitud = 346
+Episodio 17: Recompensa = 25.0, Longitud = 279
+Episodio 18: Recompensa = 23.0, Longitud = 313
+Episodio 19: Recompensa = 23.0, Longitud = 281
+Episodio 20: Recompensa = 28.0, Longitud = 355
+Episodio 21: Recompensa = 17.0, Longitud = 230
+Episodio 22: Recompensa = 23.0, Longitud = 340
+Episodio 23: Recompensa = 25.0, Longitud = 268
+Episodio 24: Recompensa = 26.0, Longitud = 276
+Episodio 25: Recompensa = 20.0, Longitud = 269
+Episodio 26: Recompensa = 19.0, Longitud = 258
+Episodio 27: Recompensa = 25.0, Longitud = 271
+Episodio 28: Recompensa = 35.0, Longitud = 398
+Episodio 29: Recompensa = 28.0, Longitud = 349
+Episodio 30: Recompensa = 21.0, Longitud = 301
+
+Resultados de Evaluación:
+  Recompensa Media: 24.83 ± 4.83
+
+Videos guardados en ./videos_evaluacion
+Abriendo video con xdg-open: videos_evaluacion/rl-video-episode-8.mp4
+A.L.E: Arcade Learning Environment (version 0.11.2+ecc1138)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.11.2+ecc1138)
+[Powered by Stella]
